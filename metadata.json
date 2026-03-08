@@ -1,0 +1,5 @@
+{
+  "name": "Student Dropout Predictor",
+  "description": "An educational data mining dashboard for predicting student dropout risk using machine learning insights.",
+  "requestFramePermissions": []
+}
